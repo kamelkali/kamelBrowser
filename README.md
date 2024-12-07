@@ -5,8 +5,8 @@ A long time ago i created my own web browser in PyQT5.
 Simple web browser with discord rich presence. **Some sitess such may not work!**
 
 ## How its look ?
-![Main page](..%2F..%2FDownloads%2Fimage-1.png) <br>
-![Discord status](..%2F..%2FDownloads%2Fimage-2.png)
+![Main page](ico/image-1.png) <br>
+![Discord status](ico/image-2.png)
 ## Authors
 
 - just me 
